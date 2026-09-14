@@ -1,0 +1,6 @@
+{
+  "name": "Diarays Inc | Luxury Jewelry & Custom Designs",
+  "description": "Explore Diarays Inc luxury fine jewelry and bespoke custom designs in Los Angeles, California.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
